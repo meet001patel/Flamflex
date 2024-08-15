@@ -18,7 +18,7 @@ JavaScript: (If applicable) For interactive elements on the page.
 ## Installation
 ### 1. Clone the Repository:
 `bash`
-git clone https://github.com/meet001patel/Farmflex
+git clone https://github.com/meet001patel/Flamflex
 ### 2. Navigate to the Project Directory:
 cd farmflex
 ### 3. Open the HTML File:
