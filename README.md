@@ -21,7 +21,7 @@ JavaScript: (If applicable) For interactive elements on the page.
 ### 2. Navigate to the Project Directory:
 `flamflex.html`
 ### 3. Open the HTML File:
-Open the flamflex.html file in your preferred web browser to view the landing page.
+Open the `flamflex.html` file in your preferred web browser to view the landing page.
 ## Usage
 Viewing the Landing Page: Open the index.html file in any web browser to explore the FarmFlex landing page.
 Customizing the Content: You can customize the text, images, and links by editing the index.html, styles.css, and other associated files.
